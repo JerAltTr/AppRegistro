@@ -1,0 +1,9 @@
+Email: admin@gmail.com
+Password: Admin123@
+Full Name: Admin
+
+Email: waza*@hotmail.com
+Contraseña: Wazap123@
+Nombre: Prueba
+
+
